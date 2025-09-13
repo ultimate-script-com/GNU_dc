@@ -1,0 +1,10 @@
+[[FizzBuzz]] sa 
+[[Fizz]] sb
+[[Buzz]] sc
+
+? sn
+ln
+ln 3 % 0 =b
+ln 5 % 0 =c
+ln 15 % 0 =a 
+p
