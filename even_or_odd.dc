@@ -1,0 +1,6 @@
+[[even] p] sa 
+[[odd] p] sb
+
+? sn
+ln 2 % 0 =a 
+ln 2 % 0 !=b
