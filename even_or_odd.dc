@@ -4,3 +4,5 @@
 ? sn
 ln 2 % 0 =a 
 ln 2 % 0 !=b
+
+# Determines whether the input number is even or odd.

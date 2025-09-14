@@ -8,3 +8,6 @@ ln 3 % 0 =b
 ln 5 % 0 =c
 ln 15 % 0 =a 
 p
+
+
+# The input numerical value is converted into a value that meets the conditions of the FizzBuzz problem and output.
