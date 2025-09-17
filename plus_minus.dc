@@ -1,0 +1,10 @@
+[[plus] p] sa
+[[minus] p] sb
+[[zero] p] sc
+
+? sn
+ln 0 <a
+ln 0 >b
+ln 0 =c
+
+# This determines whether the entered number is positive, negative, or 0. Note that when entering negative numbers, use an underscore instead of a hyphen.
